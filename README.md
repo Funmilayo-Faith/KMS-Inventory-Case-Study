@@ -23,16 +23,16 @@ KMS-Inventory-Case-Study
   - [KMS insights and recommendations](https://github.com/user-attachments/assets/179524ed-112a-4738-a4fa-5830408ec214)
 
 - Original file
-  [KMS Sql Case Study.csv](https://github.com/user-attachments/files/20931614/KMS.Sql.Case.Study.csv)
+  - [KMS Sql Case Study.csv](https://github.com/user-attachments/files/20931614/KMS.Sql.Case.Study.csv)
 
 
 ## Dashboard page overview
-1. Page 1 - Overview of sales, profit, shipping cost by segment and mode
-2. Page 2 - Tracks total sales across product categories
-3. Page 3 - Compares sales across different Lagos regions, highlights the top and lowest performing regions
-4. Page 4 - Assesses the relationship between ship modes and order priority
-5. Page 5 - Highlights the bottom 1o customers interms of low profit, uses loss flags to trace root cause
-6. Page 6 - Summarizes key findings and offers recommendations from the full analysis
+1. Page 1 - Overview of sales, profit, shipping cost by segment and mode.
+2. Page 2 - Tracks total sales across product categories.
+3. Page 3 - Compares sales across different Lagos regions, highlights the top and lowest performing regions.
+4. Page 4 - Assesses the relationship between ship modes and order priority.
+5. Page 5 - Highlights the bottom 10 customers in terms of low profit, uses loss flags to trace root cause.
+6. Page 6 - Summarizes key findings and offers recommendations from the full analysis.
 
 ## Key Insights
 - Only 4 combinations of ship method and priority were cost-appropriate.
@@ -48,8 +48,8 @@ KMS-Inventory-Case-Study
 
 ## About Me
 I am Faith Ajila, a potential medical laboratory scientist with a passion for remote diagnostics and saving lives with data.
-This project was completed during my 3-month training at The Incubator Hub, where i applied data analytics to solve a business intelligence case. This proves how versatile and impactful data can be across many fields. 
-While  my heart os in biomedical science, I believe in using data to drive life-saving decisions in healthcare and beyond.
+This project was completed during my 3-month training at The Incubator Hub, where I applied data analytics to solve a business intelligence case. This proves how versatile and impactful data can be across many fields. 
+While my heart is in biomedical science, I believe in using data to drive life-saving decisions in healthcare and beyond.
 
 
 

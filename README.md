@@ -22,6 +22,10 @@ KMS-Inventory-Case-Study
   - [KMS customer profitabilty and returns](https://github.com/user-attachments/assets/d968cdf0-4f9a-4002-9fdf-52a3725680fd)
   - [KMS insights and recommendations](https://github.com/user-attachments/assets/179524ed-112a-4738-a4fa-5830408ec214)
 
+- Original file
+  [KMS Sql Case Study.csv](https://github.com/user-attachments/files/20931614/KMS.Sql.Case.Study.csv)
+
+
 ## Dashboard page overview
 1. Page 1 - Overview of sales, profit, shipping cost by segment and mode
 2. Page 2 - Tracks total sales across product categories

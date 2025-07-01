@@ -27,12 +27,12 @@ KMS-Inventory-Case-Study
 
 
 ## Dashboard page overview
-1. Page 1 - Overview of sales, profit, shipping cost by segment and mode.
-2. Page 2 - Tracks total sales across product categories.
-3. Page 3 - Compares sales across different Lagos regions, highlights the top and lowest performing regions.
-4. Page 4 - Assesses the relationship between ship modes and order priority.
-5. Page 5 - Highlights the bottom 10 customers in terms of low profit, uses loss flags to trace root cause.
-6. Page 6 - Summarizes key findings and offers recommendations from the full analysis.
+- Page 1 - Overview of sales, profit, shipping cost by segment and mode.
+- Page 2 - Tracks total sales across product categories.
+- Page 3 - Compares sales across different Lagos regions, highlights the top and lowest performing regions.
+- Page 4 - Assesses the relationship between ship modes and order priority.
+- Page 5 - Highlights the bottom 10 customers in terms of low profit, uses loss flags to trace root cause.
+- Page 6 - Summarizes key findings and offers recommendations from the full analysis.
 
 ## Key Insights
 - Only 4 combinations of ship method and priority were cost-appropriate.
